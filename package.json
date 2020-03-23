@@ -19,6 +19,7 @@
   "homepage": "https://github.com/eliasdefrancisco/faker-introduction#readme",
   "dependencies": {
     "faker": "^4.1.0",
+    "faker-cli": "^2.0.0",
     "json-server": "^0.16.1"
   }
 }
