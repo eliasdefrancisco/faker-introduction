@@ -1,0 +1,23 @@
+{
+  "name": "faker-introduction",
+  "version": "1.0.0",
+  "description": "Moking data with FakerJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasdefrancisco/faker-introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasdefrancisco/faker-introduction/issues"
+  },
+  "homepage": "https://github.com/eliasdefrancisco/faker-introduction#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
